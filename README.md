@@ -9,8 +9,8 @@ Hii
 
 <div>
   <a href="https://github.com/Nettow">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Nettow&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nettow&layout=compact&langs_count=16&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nettow&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nettow&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
