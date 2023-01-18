@@ -6,10 +6,11 @@ Hii
 
 👍My name is Raimundo Neto, i'm a programming student. Here i will put projects and programs made at me.✨
 
+
 <div>
   <a href="https://github.com/Nettow">
-  <img height="157em" src="https://github-readme-stats.vercel.app/api?username=Nettow&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nettow&layout=compact&langs_count=16&theme=merko"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Nettow&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nettow&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
