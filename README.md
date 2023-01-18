@@ -8,8 +8,8 @@ Hii
 
 <div>
   <a href="https://github.com/Nettow">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nettow&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nettow&layout=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nettow&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nettow&layout=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
